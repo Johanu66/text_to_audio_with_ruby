@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tts (0.8.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  tts (~> 0.8.2)
+
+BUNDLED WITH
+   2.3.6
